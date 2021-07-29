@@ -35,7 +35,7 @@
 				connectedName:'',
 				prevConnected:false,
 				pDeviceInfo:{},
-				 deviceId:'lzp',
+				 deviceId:'lzp112',
 				serviceId:'0000AE00-0000-1000-8000-00805F9B34FB',
 				characteristics:'0000AE10-0000-1000-8000-00805F9B34FB',
 				characteristicsnotify:'0000AE02-0000-1000-8000-00805F9B34FB',
